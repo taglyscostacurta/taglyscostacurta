@@ -2,7 +2,7 @@
 
 
 - 🔭 Trainee BFSI Tata Consultansy Services
-- 🌱 Estudante Engenharia de Software 2/8
+- 🌱 Estudante Engenharia de Software 3/8
 ##
 <div align="center">
   <a href="https://github.com/taglyscostacurta">
